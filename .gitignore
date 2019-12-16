@@ -11,7 +11,7 @@
 # Zammad -----------------------------------------------------------------------
 
 # database (copy from config/database/database.yml, or use `rails bs:init`)
-/config/database.yml
+# /config/database.yml
 
 # Third-Party ------------------------------------------------------------------
 # The config files / dev tools listed below are optional
@@ -87,3 +87,6 @@
 
 # Backup files
 *~
+
+# Ignore master key for decrypting credentials and more.
+/config/master.key
