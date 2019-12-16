@@ -56,6 +56,7 @@
 # images
 /public/assets/images/*
 !/public/assets/images/icons/
+!/public/assets/images/2b5501d4845a9f18c5867028b4fa30c0.png
 !/public/assets/images/avatar-bg.png
 !/public/assets/images/chat-demo-avatar.png
 !/public/assets/images/eyedropper.gif
