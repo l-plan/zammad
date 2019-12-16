@@ -19,7 +19,7 @@ gem 'unicorn', group: :unicorn
 # core - supported ORMs
 gem 'activerecord-nulldb-adapter', group: :nulldb
 gem 'mysql2', '0.4.10', group: :mysql
-gem 'pg', '0.21.0', group: :postgres
+# gem 'pg', '0.21.0', group: :postgres
 
 # core - asynchrous task execution
 gem 'daemons'
