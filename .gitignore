@@ -19,7 +19,7 @@
 
 # Bundler
 /.bundle
-/Gemfile.local
+# /Gemfile.local
 
 # Clutter ======================================================================
 # These files are automatically generated;
