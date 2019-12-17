@@ -15,3 +15,5 @@ Rails.application.config.assets.version = '1.0'
 Rails.application.config.assets.precompile += %w[application-print.css]
 Rails.application.config.assets.precompile += %w[print.css]
 Rails.application.config.assets.precompile += %w[knowledge_base.css knowledge_base_public.js knowledge_base_public_polyfills.js]
+
+# Rails.application.config.assets.precompile += %w(.svg .mp3)
